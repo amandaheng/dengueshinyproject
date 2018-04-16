@@ -5,6 +5,11 @@ Project Idea
 ====================
 https://govinsider.asia/innovation/this-app-will-predict-dengue-hotspots-in-malaysia/
 
+Outbreak Prediction and Surveillance system for Dengue disease based on Artificial Neural Network
+==============================================================================================
+https://www.youtube.com/watch?v=uCGmFGdAzrc
+
+
 leaflet tutorial
 ===================
 https://rstudio.github.io/leaflet/shiny.html
