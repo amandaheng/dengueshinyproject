@@ -7,7 +7,7 @@ Dengue fever is an infectious tropical disease caused by the dengue virus and tr
 Finding and Getting Data
 ========================
 All the datasets are downloaded from http://www.data.gov.my. 
-These datasets are tabulation of Dengue Outbreak in Malaysia recorded between 2010 to 2015 ,4 healthcare centres datasets and dengue dealth cases,.  
+These datasets are tabulation of Dengue Outbreak in Malaysia recorded between 2010 to 2015 ,4 healthcare centres datasets as well as dengue dealth cases.
 
 The data is provided by the Ministry of Health Malaysia. 
 
@@ -19,7 +19,9 @@ Data Cleaning and Processing
 -Select distinct areas from a combined dataset (dengue2010_2015)
 
 #select distinct areas from  dataset
+
 location <- dengue2010_2015%>% select("area") %>% distinct
+
 location$area <- str_trim(location$area)
 
 -Fetching location coordinates from Google API (Geocoding.R)
