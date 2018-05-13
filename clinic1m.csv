@@ -1,0 +1,54 @@
+id,state,name,address,district,postcode,city,state_id,tel,fax,website,email,image,likes,rating,status,longitude,latitude
+1,P. Pinang,Klinik 1 Malaysia Alma Jaya,"No. 38, Tingkat Bawah , Lorong Alma Jaya II, Taman Alma Jaya Bukit Mertajam","Seberang Perai Tengah, Pulau Pinang",14000,Bukit Mertajam,9,04-5521033,,,,,0,0,NEW,100.4786,5.325826
+2,PERAK,Klinik 1 Malaysia Aulong,"N0 51 &53, Jalan Medan Bersatu, Taman Medan Bersatu,Taiping","Larut Matang, Perak",34000,Taiping,7,05-8068867,,,,,0,0,NEW,100.7185,4.848151
+3,SABAH,Klinik 1 Malaysia Bandar Lela,"Lot 7A &7B, Tingkat Bawah, Blok B Mile 1, Jalan Leila Sandakan","Sandakan, Sabah",90700,Bandar Lela,12,089-613204,,,,,0,0,NEW,118.0980046,5.8357592
+4,KEDAH,Klinik 1 Malaysia Bandar Puteri Jaya,"No.41, Tingkat Bawah, Jalan Puteri Jaya 1/1, Bandar Puteri Jaya, Sungai Petani","Kuala Muda, Kedah",8000,Sungai Petani,2,04-4243662,,,,,0,0,NEW,100.5354,5.61785
+5,PERAK,Klinik 1 Malaysia Bandar seri Iskandar,"N0.32 Blod D, Bangunan Rumah Kedai, Bandar Seri Isandar","Perak Tengah, Perak",32600,Bandar Seri Iskandar,7,05-3714260,05-3714260,,,,0,0,NEW,100.9628,4.359934
+6,JOHOR,Klinik 1 Malaysia Bandar Sri Alam,"Blok A, Rumah Pangsa Sri Alam, Jalan Pangsa 64, Bandar Sri Alam, Johor Bahru","Johor Bahru, Johor",81750,Johor Bahru,1,07-2523001,,,,,0,0,NEW,103.8883,1.507225
+7,SABAH,Klinik 1 Malaysia Bandar Sri Indah,"Lot 334, Tingkat Bawah, Bandar Sri Indah Batu 10 Jalan Apas, Tawau","Tawau, Sabah",91000,Bandar Sri Indah,12,089-754171,,,,,0,0,NEW,118.0069,4.267841
+8,MELAKA,Klinik 1 Malaysia Batu Berendam,"No.39, Jalan M1, Batu Berendam","Melaka Tengah, Melaka",75350,Melaka,4,06-3170012,,,,,0,0,NEW,102.2434,2.263949
+9,P. Pinang,Klinik 1 Malaysia Batu Kawan,"No.19 Lorong Cempaka 1, Taman Cempaka, Batu Kawan Simpang Empat, Seberang Perai Selatan","Seberang Perai Selatan, Pulau Pinang",14100,Seberang Perai Selatan,9,04-5880071,,,,,0,0,NEW,100.4308,5.270965
+10,KELANTAN,Klinik 1 Malaysia Batu Melintang,"Kg Batu, Jeli","Jeli, Kelantan",17250,Jeli,3,09-9447622,09-9440275,,,,0,0,NEW,101.9613,5.380643
+11,PERAK,Klinik 1 Malaysia Bercham,"No.6A-1 & 10, Persiaran Medan Bercham 7, Pusat Bandar Bercham Timur, Ipoh Perak","Kinta, Perak",31400,Ipoh,7,05-3600039,05-3600039,,,,0,0,NEW,101.1354,4.640146
+12,TERENGGANU,Klinik 1 Malaysia Binjai,"1190, Mukim Binjai, Kemaman","Kemaman, Terengganu",24000,Kemaman,13,09-8586081,,,,,0,0,NEW,103.4352,4.258534
+13,SELANGOR,Klinik 1 Malaysia Bukit Beruntung,"C-G-01, Apartment Kenanga, Taman Bunga Raya, Bukit Beruntung, Hulu Selangor","Hulu Selangor, Selangor",48000,Bukit Beruntung,10,03-60212832,,,,,0,0,NEW,101.5778,3.417297
+14,MELAKA,Klinik 1 Malaysia Bukit Katil,"No.17 Jalan IKS, Bukit Katil","Melaka Tengah, Melaka",75450,Melaka,4,06-2311278,,,,,0,0,NEW,102.2926,2.230724
+15,TERENGGANU,Klinik 1 Malaysia Bukit Payong,"8216, Tingkat Bawah, Bangunan Kedai Permit , Bukit Payong, Marang","Marang, Terengganu",21400,Marang,13,09-6192193,,,,,0,0,NEW,103.1036,5.229309
+16,SELANGOR,Klinik 1 Malaysia Bukit Sentosa,"No.13 Jalan Seroja 1B, Bukit Sentosa. 48000 Hulu Selangor","Hulu Selangor, Selangor",48000,Hulu Selangor,10,03-60211466,,,,,0,0,NEW,101.5778,3.417297
+17,SABAH,Klinik 1 Malaysia Bundusan Square,"Lot 67, Tingkat bawah, Blok H, Bundusan Square, Penampang","Penampang, Sabah",88300,Penampang,12,088-731225/226,088-731255,,,,0,0,NEW,116.0913,5.924502
+18,SELANGOR,Klinik 1 Malaysia Cakerapurnama,"No.105, Jalan Cakerapurnama, 12/2 Seksyen 12, Bandar Baru Puncak Alam, 45010 Kuala Selangor","Kuala Selangor, Selangor",45010,Kuala Selangor,10,03-33933115,03-32895044(pkd),,,,0,0,NEW,101.4267,3.240076
+19,W. Persekutuan,Klinik 1 Malaysia Desa Rejang,"Blok B-0-1, PPR Desa Rejang, Setapak","WP Kuala Lumpur, Kuala Lumpur",52100,W. Persekutuan,14,03-41429891,03-41429891,,,,0,0,NEW,101.7317,3.188424
+20,W. Persekutuan,Klinik 1 Malaysia Intan Baiduri,"B-0-5, Blok B, Kepong Utara, Mukim Batu ,Kepong","WP Kuala Lumpur, Kuala Lumpur",52100,W. Persekutuan,14,03-61203799,03-61203799,,,,0,0,NEW,101.6483,3.23321
+21,SARAWAK,Klinik 1 Malaysia Jalan Teku,"Lot 302, Blok 7 Teku Road, Sibu","Sibu, Sarawak",96000,Sibu,11,084-315494,,,,,0,0,NEW,111.8724,2.351469
+22,KELANTAN,Klinik 1 Malaysia Jelawat,"Lot34, Bandar Jelawat Bachok","Bachok, Kelantan",16070,Bachok,3,09-7787010,09-7787012,,,,0,0,NEW,102.3701,6.010222
+23,P. Pinang,Klinik 1 Malaysia Jelutong,"116, Tingkat Bawah, Jalan Jelutong","Timur Laut, Pulau Pinang",11500,Georgetown,9,04-2834070,04-2819500,,,,0,0,NEW,100.3225,5.400926
+24,PERLIS,Klinik 1 Malaysia Kangar,"No.6 Tingkat Bawah, Jalan Lintasan Kangar, Taman Pertiwi, Kangar","Kangar, Perlis",1000,Kangar,8,04-9762634,04-9762621,,,,0,0,NEW,100.1835,6.414155
+25,PAHANG,Klinik 1 Malaysia Kg Padang Jaya,"Tingkat Bawah, B-32 Jalan Sungai Lembing, Kg Padang","Kuantan, Pahang",25200,Kuantan,6,09-5735542,09-5679029,,,,0,0,NEW,103.2601,3.852732
+26,KELANTAN,Klinik 1 Malaysia Kota Bharu,"Lot 348 (Bawah), Jalan Sri Cemerlang, Kota Bharu","Kota Bharu, Kelantan",15350,Kota Bharu,3,09-7414834,,,,,0,0,NEW,102.2472,6.129838
+27,KEDAH,Klinik 1 Malaysia Kota Kenari,"No.208, Rumah Kedai, Jalan Kota Kenari3,Kota Kenari, Kulim","Kulim, Kedah",9000,Kulim,2,04-494534,,,,,0,0,NEW,100.5673,5.371824
+28,SELANGOR,Klinik 1 Malaysia Lembah Subang,"No.112 &113, Blok A Jalan PJU 1A/42, Taman Putra Damai, Lembah Subang Petaling Jaya","Petaling Jaya, Selangor",47301,Kelana Jaya,10,03-78035533,,,,,0,0,NEW,101.5882,3.114647
+29,SARAWAK,Klinik 1 Malaysia Matang Jaya,"Lot 9746, Seksyen 65 KTLD, Taman Lee Ling, Jalan Matang, Kuching","Kuching, Sarawak",93050,Kuching,11,082-649644,082-649644,,,,0,0,NEW,110.3007,1.571471
+30,KELANTAN,Klinik 1 Malaysia Pengkalan Batu,"Lot 633B, Kg. Pengkalan Batu, Jalan Pasir Pekan, Pasir Mas","Pasir Mas, Kelantan",17000,Pasir Mas,3,09-7922211,,,,,0,0,NEW,102.1425,6.041394
+31,W. Persekutuan,Klinik 1 Malaysia Perkasa,"B-0-1, Blok B, PPR Perkasa, Jalan Nakhoda Yusof, Kampung Pandan","WP Kuala Lumpur, Kuala Lumpur",55100,W. Persekutuan,14,03-92055242,03-92055242,,,,0,0,NEW,101.72717,3.134903
+32,SELANGOR,Klinik 1 Malaysia PJS 6,"No.2A, Jalan 6A, Kg  Lindungan 46000 Petaling Jaya","Petaling Jaya, Selangor",46000,Petaling Jaya,10,03-77819001,03-77819105,,,,0,0,NEW,101.6163,3.078016
+33,N. Sembilan,Klinik 1 Malaysia Seremban Jaya,"No.2294, Jalan SJ 10/1 , Taman Seremban Jaya, Seremban","Seremban, Negeri Sembilan",70450,Seremban,5,06-6771710,06-6771710,,,,0,0,NEW,101.9836,2.67066
+34,MELAKA,Klinik 1 Malaysia Seri Pengkalan,"KM 4615, Jalan Samarinda 2, Taman Samarinda, Pengkalan, Alor Gajah","Alor Gajah, Melaka",78000,Alor Gajah,4,06-5560184,,,,,0,0,NEW,102.2284,2.374117
+35,JOHOR,Klinik 1 Malaysia Sri Stulang,"Tingkat Bawah, Blok G, Rumah Pangsa Sri Stulang 1, Bakar Batu Permas  Jaya, Johor Bahru","Johor Bahru, Johor",81250,Johor Bahru,1,07-2166001,,,,,0,0,NEW,103.791,1.49605
+36,SABAH,Klinik 1 Malaysia Sulaman Sentral,"Lot 37, Tingkat Bawah Blok E, Fasa 2, Sulaiman Sentral, Kota Kinabalu","Kota Kinabalu, Sabah",88450,Kota Kinabalu,12,088-473128/127,088-473129,,,,0,0,NEW,116.1158,5.976474
+37,P. Pinang,Klinik 1 Malaysia Sungai Ara,"2A-1, Tingkat Kenari 5, Taman Desa Ria, Sungai Ara, Bayan Lepas, Barat Daya","Barat Daya, Pulau Pinang",11900,Bayan Lepas,9,04-6463531,,,,,0,0,NEW,100.2689,5.31918
+38,SARAWAK,Klinik 1 Malaysia Sungai Plan,"S/L 517, Sungai Plan Tanjung Kidurong, Bintulu","Bintulu, Sarawak",97000,Bintulu,11,086-254481,088-254481,,,,0,0,NEW,113.11923,3.273333
+39,SELANGOR,Klinik 1 Malaysia Taman Gombak Permai,"No 1G, Jalan GP 2A, Taman Gombak Permai, 68100 Batu Cave","Gombak, Selangor",68100,Batu Cave,10,03-61856164,,,,,0,0,NEW,101.6864,3.251675
+40,PAHANG,Klinik 1 Malaysia Taman Kempadang Makmur,"Taman Kempadang Makmur, Kempadang","Kuantan, Pahang",26060,Kuantan,6,09-5513831,09-5679092,,,,0,0,NEW,103.3149,3.771462
+41,JOHOR,Klinik 1 Malaysia Taman Manis,"No. 5, Jalan Manis 17, Taman Manis Kelapa Sawit, Kulai Jaya","Kualaijaya, Johor",81030,Kulai,1,07-6525001,,,,,0,0,NEW,103.5238,1.680732
+42,JOHOR,Klinik 1 Malaysia Taman Megah Ria,"No. 15 & 15A, Jalan Bayan 37/2, Taman Megah Ria, Masai Johor","Johor Bahru, Johor",81750,Johor Bahru,1,07-3866101,,,,,0,0,NEW,103.8561,1.49696
+43,W. Persekutuan,Klinik 1 Malaysia Taman Melati,"Dewan Serbaguna, Pusat Konuniti Gombak, Taman Melati","WP Kuala Lumpur, Kuala Lumpur",53100,W. Persekutuan,14,03-61854278,03-61854278,,,klinik1m_tamanmelati.jpg,0,0,NEW,101.7203,3.217431
+44,JOHOR,Klinik 1 Malaysia Taman Pagoh Jaya,"No.5, Jalan Jaya 1/3, Taman Pagoh Jaya, Pahoh, Muar","Muar, Johor",84600,Muar,1,06-9737001,,,,,0,0,NEW,102.7173,2.13235
+45,N. Sembilan,Klinik 1 Malaysia Taman Rasah Jaya,"No.3779, Jalan Rasah Jaya 6-11, Taman Rasah Jaya, Seremban","Seremban, Negeri Sembilan",70300,Seremban,5,06-6310699,,,,,0,0,NEW,101.9432,2.681458
+46,N. Sembilan,Klinik 1 Malaysia Taman Semarak 2,"No. 5742, Jalan TS 2/1E, Taman Semarak 2, Nilai","Seremban, Negeri Sembilan",71800,Nilai,5,06-7977751,,,,,0,0,NEW,101.817,2.82083
+47,JOHOR,Klinik 1 Malaysia Taman Seri Lambak,"Balai Aktiviti JKKMB, Taman Seri Lambak, Kluang Johor","Kluang, Johor",86000,Kluang,1,07-7897701,,,,,0,0,NEW,103.3154,2.028788
+48,SARAWAK,Klinik 1 Malaysia Taman Tunku,"Lot 9261 (2350 Heibour Hood) Shopping Centre Taman Tunku, Miri","Miri, Sarawak",97000,Miri,11,085-611546,,,,,0,0,NEW,113.9933,4.318427
+49,P. Pinang,Klinik 1 Malaysia Teluk Air Tawar,"No.6, Lorong Teluk Air Tawar 14, Taman Air Tawar Indah, Teluk Air Tawar, Butterworth","Seberang Perai Utara, Pulau Pinang",13050,Butterworth,9,04-3511080,,,,,0,0,NEW,100.3835,5.490113
+50,PERAK,Klinik 1 Malaysia Teluk Intan,"No.1 Taman Medan Maharaja, Jalan Kampung Banjar, Teluk Intan","Hilir Perak, Perak",36000,Teluk Intan,7,05-6224110,05-6212401,,,,0,0,NEW,101.0052,3.994364
+51,PAHANG,Klinik 1 Malaysia Temerloh,"N0.12 Tingkat Bawah, Jalan Pak Sako 4, Bandar Seri Semantan, Temeloh","Temerloh, Pahang",28000,Temerloh,6,09-2969630,09-2969630,,,,0,0,NEW,102.4166,3.451754
+52,TERENGGANU,Klinik 1 Malaysia Wakaf Baru,"Lot PT30712, Wakaf Baru, Mukim Kuala Nerus, Kuala Terengganu","Kuala Terengganu, Terengganu",21300,Kuala Terengganu,13,09-6667861,,,,,0,0,NEW,102.218,6.12076
+53,W. Persekutuan,Klinik 1Malaysia Kerinchi,"B-0-1, Blok B Kuarters DBKL, Jalan Pantai Permai 1","WP Kuala Lumpur, Kuala Lumpur",59200,W. Persekutuan,14,03-22409406,03-22409406,,,,0,0,NEW,101.6708,3.106861

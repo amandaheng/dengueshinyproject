@@ -1,0 +1,12 @@
+name: denguemalaysia
+title: denguemalaysia
+username:
+account: amandaheng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 339250
+bundleId: 1371091
+url: https://amandaheng.shinyapps.io/denguemalaysia/
+when: 1526197233.35371
+asMultiple: FALSE
+asStatic: FALSE
